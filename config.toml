@@ -1,4 +1,4 @@
-baseurl = "http://example.com"
+baseurl = "https://blognilly.emperror.repl.co/"
 disablePathToLower = false
 languageCode = "en-us"
 title = "Blog Do Nilly"
@@ -34,7 +34,7 @@ post = "/blog/:year-:month-:day-:title/"
 
   # Text of the "Continue Reading" label. Supports markdown and inline HTML.
   # For example, &rarr; == right arrow.
-  continueReadingText = "Eita fim da pagina quer ler mais? &rarr;"
+  continueReadingText = "Ler mais &rarr;"
 
   # Google analytics code - remove if you do not have/want Google Analytics - needs JavaScript
   googleAnalytics = "UA-XXXXX-X"

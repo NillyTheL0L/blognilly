@@ -2,17 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Blog Do Nilly</title>
-    <link>http://example.com/posts/</link>
+    <link>https://blognilly.emperror.repl.co/posts/</link>
     <description>Recent content in Posts on Blog Do Nilly</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 01 Apr 2022 20:14:52 -0300</lastBuildDate><atom:link href="http://example.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 01 Apr 2022 23:32:53 +0000</lastBuildDate><atom:link href="https://blognilly.emperror.repl.co/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>5 gravadores de imagens ISO</title>
+      <link>https://blognilly.emperror.repl.co/posts/5gi/</link>
+      <pubDate>Fri, 01 Apr 2022 23:32:53 +0000</pubDate>
+      
+      <guid>https://blognilly.emperror.repl.co/posts/5gi/</guid>
+      <description>Ola vamos ver agora 5 gravadores de imagens ISO se gostar da lista siga o blog por que sempre estamos postando novidades vamo la!
+1. balena etcher O balena etcher e um gravador de iso bem conhecido entre todos mas particulamente eu nao gosto
+ Baixe Aqui
+2. Rosa Image Writer O Rosa image writer e um gravador de imagem muito rapido e leve criado pelos mesmos criadores do Rosa Linux eu uso demais esse kkkk</description>
+    </item>
+    
     <item>
       <title>Bem Vindos</title>
-      <link>http://example.com/posts/bem-vindos/</link>
+      <link>https://blognilly.emperror.repl.co/posts/bem-vindos/</link>
       <pubDate>Fri, 01 Apr 2022 20:14:52 -0300</pubDate>
       
-      <guid>http://example.com/posts/bem-vindos/</guid>
+      <guid>https://blognilly.emperror.repl.co/posts/bem-vindos/</guid>
       <description>ola sou o nilly e aqui irei postar coisas relacionadas a linux! sigam o blog para mais novidades</description>
     </item>
     

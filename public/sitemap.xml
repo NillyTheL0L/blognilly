@@ -2,17 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.com/posts/bem-vindos/</loc>
+    <loc>https://blognilly.emperror.repl.co/posts/5gi/</loc>
+    <lastmod>2022-04-01T23:32:53+00:00</lastmod>
+  </url><url>
+    <loc>https://blognilly.emperror.repl.co/</loc>
+    <lastmod>2022-04-01T23:32:53+00:00</lastmod>
+  </url><url>
+    <loc>https://blognilly.emperror.repl.co/posts/</loc>
+    <lastmod>2022-04-01T23:32:53+00:00</lastmod>
+  </url><url>
+    <loc>https://blognilly.emperror.repl.co/posts/bem-vindos/</loc>
     <lastmod>2022-04-01T20:14:52-03:00</lastmod>
   </url><url>
-    <loc>http://example.com/</loc>
-    <lastmod>2022-04-01T20:14:52-03:00</lastmod>
+    <loc>https://blognilly.emperror.repl.co/categories/</loc>
   </url><url>
-    <loc>http://example.com/posts/</loc>
-    <lastmod>2022-04-01T20:14:52-03:00</lastmod>
-  </url><url>
-    <loc>http://example.com/categories/</loc>
-  </url><url>
-    <loc>http://example.com/tags/</loc>
+    <loc>https://blognilly.emperror.repl.co/tags/</loc>
   </url>
 </urlset>
